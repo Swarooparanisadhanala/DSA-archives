@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
