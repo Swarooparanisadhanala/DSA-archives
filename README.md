@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -50,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
