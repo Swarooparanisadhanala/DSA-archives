@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1882-process-tasks-using-servers](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1882-process-tasks-using-servers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2747-count-zero-request-servers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
