@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/0032-longest-valid-parentheses) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
