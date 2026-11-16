@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
