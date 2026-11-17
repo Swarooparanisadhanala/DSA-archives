@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/0032-longest-valid-parentheses) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Swarooparanisadhanala/DSA-archives/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
